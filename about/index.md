@@ -7,9 +7,9 @@ type: about
 
 #### 订阅
 
-通过RSS： https://things.ddlee.cn/atom.xml
+[RSS](https://things.ddlee.cn/atom.xml)
 
-Telegram频道：https://t.me/things_explained
+[Telegram Channel](https://t.me/things_explained)
 
 #### 提供反馈/纠错
 
