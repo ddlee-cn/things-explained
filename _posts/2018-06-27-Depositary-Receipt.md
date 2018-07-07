@@ -47,5 +47,7 @@ DR发行并无IPO有直接的时间上的联系，某个在市场上已经价值
 
 
 > Ref:
-> CDR（中国存托凭证）是什么？怎么样？有什么影响？, https://zhuanlan.zhihu.com/p/34485293
-> An Introduction To Depositary Receipts - ADR, https://www.investopedia.com/investing/introduction-depositary-receipts/
+> 
+> [CDR（中国存托凭证）是什么？怎么样？有什么影响？](https://zhuanlan.zhihu.com/p/34485293)
+> 
+> [An Introduction To Depositary Receipts - ADR](https://www.investopedia.com/investing/introduction-depositary-receipts/)

@@ -44,4 +44,5 @@ tags:
 
 
 > Ref:
-> What Does Deleveraging Mean?, https://www.thebalance.com/what-does-deleveraging-mean-357641, 2018.06.25
+> 
+> [What Does Deleveraging Mean?](https://www.thebalance.com/what-does-deleveraging-mean-357641)
